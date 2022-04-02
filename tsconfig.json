@@ -1,8 +1,7 @@
 {
-  "extends": "expo/tsconfig.json",
+  "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
     "jsx": "react",
-    "strict": true,
-    "--jsx": true
+    "strict": true
   }
 }
